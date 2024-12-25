@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Montaser Al-Reqeb !
 
-🎓 **Chairman at IEEE CS** | 📢 **PR & HR at iTeam ZUJ**
+🎓 **Chairman at IEEE CS ZUJ** | 📢 **PR & HR at iTeam ZUJ** | 📢 **Treasurer at ACM ZUJ Chapter**
 
 Welcome to my GitHub profile! I'm an enthusiastic developer and leader, passionate about technology, innovation, and community development. As an active contributor and chairman at IEEE Computer Society, I strive to promote knowledge sharing, skill development, and collaboration in tech. My roles in iTeam ZUJ further allow me to foster community engagement and drive impactful projects.
 
