@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an enthusiastic developer and leader, passiona
 
 ### 🛠 Technical Skills
 - **Programming Languages**:  JavaScript, Java, C++
-- **Web Development**: HTML, CSS, JavaScript, React js,Next js, Node.js ,React Native
+- **Web Development**: HTML, CSS, JavaScript, React js,Next js, Node.js ,React Native , Node js using express
 - **Databases**: MongoDB, NeonDB
 - **Cloud & DevOps**:  Git, GitHub, Google Cloud
 - **Mobile Development**: Visual Studio Code, Android Studio
